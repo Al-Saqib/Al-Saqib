@@ -1,6 +1,6 @@
 ### My current obsessions 👋
 
-![My Goal](Al-Saqib/giphy.gif)
+![My Goal](https://github.com/Al-Saqib/Al-Saqib/blob/master/giphy.gif)
 
 - 🔭 I’m currently working on connection between quantum, neural and algorithmic information theory ...
 - 🌱 I’m currently learning ...
