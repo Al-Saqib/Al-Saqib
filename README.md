@@ -1,8 +1,5 @@
 ### My current obsessions 👋
 
-<!--
-**Al-Saqib/Al-Saqib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on connection between quantum, neural and algorithmic information theory ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alsaqib8@student.ubc.ca ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
