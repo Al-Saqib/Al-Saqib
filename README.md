@@ -2,7 +2,7 @@
 
 ![My Goal](https://github.com/Al-Saqib/Al-Saqib/blob/master/arrival.gif)
 
-- 🔭 I’m currently working on deep learning and game theory research. 
+- 🔭 I’m currently working on UK healthcare data, genetic algorithm and consciousness projects. 
 - 🌱 I’m currently learning python, machine learning and neuroscience. 
 - 👯 I’m looking to collaborate on python projects related to neuro-ai and healthcare. 
 - 🤔 I’m looking for help with building web and mobile platform for my healthcare startup.
