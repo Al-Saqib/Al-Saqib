@@ -2,11 +2,11 @@
 
 ![My Goal](https://github.com/Al-Saqib/Al-Saqib/blob/master/arrival.gif)
 
-- 🔭 I’m currently working on UK healthcare data, genetic algorithm and consciousness projects. 
-- 🌱 I’m currently learning python, machine learning and neuroscience. 
-- 👯 I’m looking to collaborate on python projects related to neuro-ai and healthcare. 
-- 🤔 I’m looking for help with building web and mobile platform for my healthcare startup.
-- 💬 Ask me about consciousness, intelligence and neuro-cognitive architectures. 
-- 📫 How to reach me: saqib.majumder01@gmail.com
+- 🔭 Currently Working On: Neuro-AI projects exploring consciousness, cognitive mechanisms, and predictive coding. Also involved in analysing UK healthcare data using machine learning techniques.
+- 🌱 Currently Learning: Advanced machine learning (e.g., deep reinforcement learning), data engineering, and neuroimaging analysis techniques (fMRI/EEG).
+- 👯 Looking to Collaborate On: Neuro-inspired AI models, computational neuroscience, and healthcare applications of AI.
+- 🤔 Seeking Support With: Building robust data engineering pipelines and visualisation tools for neuroimaging and healthcare data.
+- 💬 Ask Me About: Consciousness research, predictive processing models, neuro-cognitive architectures, and healthcare inequalities.
+- 📫 Reach Me At: saqib.majumder01@gmail.com
 - ⚡ Favorite Quote: "The fool who persists in his folly will become wise" - William Blake
 
